@@ -1,4 +1,7 @@
 # Microsoft-Explore-Interview-Dataset
+----
+This is a comprehensive list of interview questions from Microsoft Explore, dated from 2016 to 2024, compiled from Glassdoor. The questions are categorized into different types, including technical coding challenges, data structure problems, behavioral questions, and creative problem-solving scenarios. The list also includes the most frequently asked questions during the Microsoft Explore interview process, providing insight into the common topics and areas of focus during interviews for this program. These questions cover a range of subjects such as Leetcode-style problems, algorithm design, teamwork experiences, and technology-related inquiries.
+----
 ### Technical Interview Questions
 
 1. Leetcode Questions:
