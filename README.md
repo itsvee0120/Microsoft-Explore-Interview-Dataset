@@ -5,7 +5,7 @@ This is a comprehensive list of interview questions from Microsoft Explore, date
 **Disclaimer:**
 This dataset is unofficial and I am in no way affiliated with Microsoft Recruitment team or the Microsoft Explore program. The questions listed have been compiled from publicly available sources, including Glassdoor, and represent a collection of interview experiences shared by individuals who have participated in the Microsoft Explore interview process. The information provided is for reference purposes only and may not fully reflect the actual questions asked in interviews. No guarantees are made regarding the accuracy, completeness, or timeliness of the content.
 
-More resources including my personal study plan, answers for technical problems can be found here in my [Notion workspace](https://itsmevee.notion.site/Microsoft-Explore-Interview-Resources-1acc45e4348d80228ea8f1de52879453)
+**More resources including my personal study plan, answers for technical problems can be found here in my [Notion workspace](https://itsmevee.notion.site/Microsoft-Explore-Interview-Resources-1acc45e4348d80228ea8f1de52879453)**
 
 ### Technical Interview Questions
 
